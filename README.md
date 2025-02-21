@@ -29,9 +29,3 @@ Simply open `index.html` in a web browser to view the website.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-
-Your Name - [your.email@example.com]
-
-Project Link: [https://github.com/yourusername/fm-recipes](https://github.com/yourusername/fm-recipes) 
