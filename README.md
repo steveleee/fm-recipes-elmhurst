@@ -4,7 +4,6 @@ A multilingual, culturally-adapted DASH diet website for the Elmhurst, Queens co
 
 ## Features
 
-- 🌍 Multilingual support (English, Chinese, Spanish, Korean, Bengali, and Nepali)
 - 🍲 Culturally-adapted DASH diet recipes
 - 📱 Responsive, accessible design
 - 🎯 Easy-to-follow guidelines
@@ -30,13 +29,6 @@ Simply open `index.html` in a web browser to view the website.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Elmhurst Hospital Center
-- Family Medicine Department
-- Community Health Workers
-- Cultural Advisors
 
 ## Contact
 
