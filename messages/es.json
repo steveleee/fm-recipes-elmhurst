@@ -1,0 +1,29 @@
+{
+  "navigation": {
+    "home": "Inicio",
+    "recipes": "Recetas",
+    "guide": "Guía DASH",
+    "resources": "Recursos",
+    "changeLanguage": "Cambiar Idioma"
+  },
+  "hero": {
+    "title": "Alimentación Saludable para Nuestra Comunidad",
+    "subtitle": "Descubre recetas y pautas de la dieta DASH adaptadas culturalmente para la diversa comunidad de Elmhurst. Una mejor salud comienza con comida que se siente como en casa.",
+    "getStarted": "Comenzar",
+    "learnMore": "Más Información"
+  },
+  "features": {
+    "culturallyAdapted": {
+      "title": "Adaptado Culturalmente",
+      "description": "Recetas y recomendaciones adaptadas a tus preferencias y tradiciones culturales"
+    },
+    "multiLanguage": {
+      "title": "Múltiples Idiomas",
+      "description": "Contenido disponible en inglés, chino, español, coreano y bengalí"
+    },
+    "easyToFollow": {
+      "title": "Fácil de Seguir",
+      "description": "Instrucciones claras y simples con listas de compras para ayudarte a tener éxito"
+    }
+  }
+} 
